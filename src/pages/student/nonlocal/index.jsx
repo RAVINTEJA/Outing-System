@@ -1,14 +1,14 @@
-import React from 'react'
-import { ComplexNavbar } from '../_components/NavBar'
-import { NonLocalForm } from '../_components/NonLocalForm'
+import React from "react";
+import { ComplexNavbar } from "../components/NavBar";
+import { NonLocalForm } from "../components/NonLocalForm";
 
 const index = () => {
-  return (
-    <div className='flex flex-col items-center'>
-        <ComplexNavbar />
-        <NonLocalForm />
-    </div>
-  )
-}
+    return (
+        <div className="flex flex-col items-center">
+            <ComplexNavbar />
+            <NonLocalForm />
+        </div>
+    );
+};
 
-export default index
+export default index;
