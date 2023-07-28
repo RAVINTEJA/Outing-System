@@ -1,6 +1,6 @@
 import React from "react";
-import { ComplexNavbar } from "../components/NavBar";
-import { NonLocalForm } from "../components/NonLocalForm";
+import  ComplexNavbar  from "../components/NavBar";
+import  NonLocalForm  from "../components/NonLocalForm";
 
 const index = () => {
     return (

@@ -1,9 +1,9 @@
 import React from "react";
-import { ComplexNavbar } from "./components/NavBar";
-import { Details } from "./components/Details";
+import  ComplexNavbar from "./components/NavBar";
+import  Details  from "./components/Details";
 import { Button } from "@material-tailwind/react";
 import Link from "next/link";
-import { QRCode } from "./components/QRCode";
+import  QRCode  from "./components/QRCode";
 
 const index = () => {
     return (
