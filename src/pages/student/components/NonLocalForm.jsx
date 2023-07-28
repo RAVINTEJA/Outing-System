@@ -9,7 +9,7 @@ import {
   
   import data from "@/../public/data.json"
 
-  export function NonLocalForm() {
+  export default function NonLocalForm() {
     const user = data.students[0]
 
     return (

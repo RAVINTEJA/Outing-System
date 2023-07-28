@@ -10,7 +10,7 @@ import {
 } from "@/components/ui/dialog"
 import { Button } from "@material-tailwind/react"
 
-export function QRCode() {
+export default function QRCode() {
   return (
     <Dialog>
       <DialogTrigger asChild>

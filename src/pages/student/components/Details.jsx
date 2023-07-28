@@ -5,7 +5,7 @@ import {
     Typography,
 } from "@material-tailwind/react";
 
-export function Details() {
+export default function Details() {
     return (
         <Card className="mt-6 w-full md:w-[500px] p-4 mx-auto gap-4 flex-col md:flex-row items-stretch">
             <CardHeader className="w-full md:w-2/5 m-0">
