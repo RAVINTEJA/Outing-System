@@ -39,10 +39,6 @@ yarn-error.log*
 **/.pytest_cache
 **/.cache
 
-# Dependencies lock files
-package-lock.json
-yarn.lock
-
 
 # Jest coverage
 coverage/
